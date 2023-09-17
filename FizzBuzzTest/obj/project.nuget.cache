@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUlG+MrgIUTBhKsbOYNJhU2wdD3m8Ub/XJqhn00sKl54nrQDb3FcJE30dubBUpXNN1KYU/lp+sSloZ7ctR0HPQ==",
+  "success": true,
+  "projectFilePath": "C:\\rupendra\\Rupendra\\Work\\FactorialFuzz\\FactorialFuzz\\FizzBuzzTest\\FizzBuzzTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nidhi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nidhi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
